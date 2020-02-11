@@ -1,0 +1,44 @@
+.part {
+    height: 100vh;
+}
+.part:nth-of-type(1) {
+    background: #e7e8e9;
+    background-image: url(/images/exultant-logo-main.png); 
+    background-attachment:fixed;
+    background-position: center;
+    background-repeat: no-repeat;}
+.part:nth-of-type(2) {
+    background: #fff; 
+    background-image: url(/images/mobile-app.gif);
+    background-size: 100vh;
+    background-attachment:fixed;
+    background-position: right center;
+    background-repeat: no-repeat;
+}
+.part:nth-of-type(3) {
+    background: #e7e8e9;
+    background-attachment:fixed;
+    background-position: right center;
+    background-repeat: no-repeat;
+}
+.part:nth-of-type(4) {
+    background: #fff;
+    background-attachment:fixed;
+    background-position: right center;
+    background-repeat: no-repeat;
+}
+
+.part:nth-of-type(5) {
+    background: #e7e8e9;
+    background-attachment:fixed;
+    background-position: right center;
+    background-repeat: no-repeat;
+}
+
+input {
+    display: block;
+}
+
+.footer {
+
+}
