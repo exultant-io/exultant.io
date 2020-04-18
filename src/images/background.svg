@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="633px" viewBox="0 0 1024 633" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-7.61052572%" y1="47.7967676%" x2="50%" y2="69.1063404%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="140" y="167" width="1024" height="633"></rect>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="112.663755%" gradientTransform="translate(0.500000,0.000000),scale(1.000000,0.887597),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <ellipse id="path-4" cx="1162" cy="407" rx="229" ry="258"></ellipse>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="105.031447%" gradientTransform="translate(0.500000,0.000000),scale(1.000000,0.952096),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-5">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <ellipse id="path-6" cx="222" cy="167" rx="159" ry="167"></ellipse>
+        <ellipse id="path-7" cx="159" cy="633" rx="159" ry="167"></ellipse>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop">
+            <g id="Group" transform="translate(-140.000000, -167.000000)">
+                <g id="Rectangle">
+                    <use fill="#D8D8D8" xlink:href="#path-2"></use>
+                    <rect stroke="#979797" stroke-width="1" stroke-linejoin="square" fill-opacity="0.5" fill="url(#linearGradient-1)" x="140.5" y="167.5" width="1023" height="632"></rect>
+                </g>
+                <g id="Oval">
+                    <use fill="#D8D8D8" xlink:href="#path-4"></use>
+                    <use fill="url(#radialGradient-3)" xlink:href="#path-4"></use>
+                </g>
+                <g id="Oval">
+                    <use fill="#D8D8D8" xlink:href="#path-6"></use>
+                    <use fill="url(#radialGradient-5)" xlink:href="#path-6"></use>
+                </g>
+                <g id="Oval">
+                    <use fill="#D8D8D8" xlink:href="#path-7"></use>
+                    <use fill="url(#radialGradient-5)" xlink:href="#path-7"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
